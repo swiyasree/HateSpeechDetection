@@ -10,8 +10,8 @@ for split in splits:
     dataset = load_dataset("hatexplain", split=split)
     dataset.to_json(os.path.join(raw_dir, f"hatexplain_{split}.json"))
 
-# Step 2: Reload from JSON files
-data_files = {split: os.path.join(raw_dir, f"hatexplain_{split}.json") for split in splits}
-hatexplain_ds = load_dataset("json", data_files=data_files)
+# # Step 2: Reload from JSON files
+# data_files = {split: os.path.join(raw_dir, f"hatexplain_{split}.json") for split in splits}
+# hatexplain_ds = load_dataset("json", data_files=data_files)
 
 
