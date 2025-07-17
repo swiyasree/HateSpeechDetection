@@ -1,0 +1,11 @@
+{
+    "id":"14030104_gab",
+    "annotators":
+    {
+        "label":[0,2,0],
+        "annotator_id":[9,43,4],
+        "target":[["Jewish"],["Jewish"],["Jewish"]]
+    },
+    "rationales":[[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]],
+    "post_tokens":["yeah","i","got","to","about","just","over","<number>","followers","and","got","shoahed","for","criticizing","amy","schumer","being","cast","as","barbie","and","just","never","bothered","to","return","and","surprise","surprise","i","was","correct","and","they","nixed","that","kikey","plan","but","whatevs","<happy>"]
+}

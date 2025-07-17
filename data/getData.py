@@ -14,9 +14,4 @@ for split in splits:
 data_files = {split: os.path.join(raw_dir, f"hatexplain_{split}.json") for split in splits}
 hatexplain_ds = load_dataset("json", data_files=data_files)
 
-# Open and read the train JSON file
-with open(os.path.join(raw_dir, 'hatexplain_train.json'), 'r') as file:
-    lines = file.readlines()
-    hs_df = [json.loads(line) for line in lines]
 
-print(hs_df[0])
