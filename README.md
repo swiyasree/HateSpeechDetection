@@ -1,12 +1,12 @@
 ## HateSpeechDetection
 
-Hate speech detection on social media comments, posts - 
+# Hate speech detection on social media comments, posts - 
 
 Leveraging LLMs, LoRA, RAG, LangGraph, multi-agent systems, modern LLMOps, MCP orchestration, cloud deployment, observability, and real-time inference infra.
 
-# Phase 1: Using hatexplain dataset from HuggingFace.
+Phase 1: Using hatexplain dataset from HuggingFace.
 
-## Licensing Information
+Licensing Information
 
 MIT License
 
